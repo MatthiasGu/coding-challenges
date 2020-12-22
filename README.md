@@ -2,6 +2,11 @@
 
 This repository contains some of the coding challenges I've done in popular websites such as HackerRank, LeetCode, etc.
 
+I've done a whole bunch of challenges on HackerRank back in the day:
+https://www.hackerrank.com/MatthiasGu
+
+It will take some time to update fully - I am trying to select the most interesting problems to put here.
+
 I use various languages - see below:
 
 ## Java
