@@ -25,10 +25,10 @@ I use various languages - see below:
 
 [Queen's attack - medium but lots of cases to check](https://github.com/MatthiasGu/coding-challenges/blob/master/src/javascript/queensAttack.js)
 
-## TypeScript
-[Group Anagrams](https://github.com/MatthiasGu/coding-challenges/blob/master/src/typescript/groupAnagrams.ts)
-
 ## Python
 [Merge the Tools!](https://github.com/MatthiasGu/coding-challenges/blob/master/src/python/merge_the_tools.py)
 
 [Permutations](https://github.com/MatthiasGu/coding-challenges/blob/master/src/python/permutations.py)
+
+## TypeScript
+[Group Anagrams](https://github.com/MatthiasGu/coding-challenges/blob/master/src/typescript/groupAnagrams.ts)
