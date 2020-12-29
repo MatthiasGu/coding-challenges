@@ -7,7 +7,7 @@ https://www.hackerrank.com/MatthiasGu
 
 It will take some time to update fully - I am trying to select the most interesting and challenging problems to put here.
 
-I use various languages - see below:
+I use various languages - though I tend to avoid Java for short exercises :)
 
 ## Java
 [Count primes](https://github.com/MatthiasGu/coding-challenges/blob/master/src/java/CountPrimes.java)
@@ -18,6 +18,7 @@ I use various languages - see below:
 [Max min](https://github.com/MatthiasGu/coding-challenges/blob/master/src/javascript/maxMin.js)
 [Minimum swaps](https://github.com/MatthiasGu/coding-challenges/blob/master/src/javascript/minimumSwaps.js)
 [New Year chaos](https://github.com/MatthiasGu/coding-challenges/blob/master/src/javascript/newYearChaos.js)
+[Non-divisible subset](https://github.com/MatthiasGu/coding-challenges/blob/master/src/javascript/nonDivisibleSubset.js)
 [Queen's attack - medium but lots of cases to check](https://github.com/MatthiasGu/coding-challenges/blob/master/src/javascript/queensAttack.js)
 
 ## TypeScript
